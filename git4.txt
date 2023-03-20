@@ -3,5 +3,3 @@ i working area
 ii stagging area
 iii commit area
 
-lets now learn about remote repos
-
